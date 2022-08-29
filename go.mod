@@ -1,3 +1,3 @@
-module github.com/jota93agudelo/helloplatzimod
+module github.com/juanjoagudelo/helloplatzimod
 
 go 1.19
